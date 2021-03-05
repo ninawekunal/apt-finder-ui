@@ -1,0 +1,99 @@
+.apartment {
+  box-shadow: var(--lightShadow);
+  transition: var(--mainTransition);
+  width: 300px;
+  padding: 0px;
+}
+.apartment:hover {
+  box-shadow: var(--darkShadow);
+}
+
+.img-container {
+  position: relative;
+  height: 200px;
+  width: 300px;
+}
+.img-container img {
+  height: 200px;
+  width: 300px;
+  display: block;
+  transition: var(--mainTransition);
+}
+.price-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25%;
+  background: rgba(0, 0, 0, 0.8);
+  color: var(--mainWhite);
+  padding: 0.3rem 0.6rem 0.5rem;
+  border-bottom-right-radius: 1rem;
+  font-size: 0.5rem;
+  text-align: center;
+  transition: var(--mainTransition);
+}
+.price-top h6 {
+  margin-top: 5px;
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  font-weight: 300;
+  letter-spacing: var(--mainSpacing);
+}
+.apartment-link {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: scale(0);
+  transition: all 0.3s linear;
+  color: lightgray;
+  width: fit-content;
+}
+.img-container:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+.img-container:hover img {
+  opacity: 0.5;
+  cursor: pointer;
+}
+/* .img-container:hover .price-top {
+    opacity: 0;
+  } */
+.img-container:hover .room-link {
+  transform: translate(-50%, -50%) scale(1);
+}
+.apartment-info {
+  margin-top: 0;
+  background: var(--darkGrey);
+  text-transform: capitalize;
+  padding: 0.5rem 0;
+  text-align: center;
+  font-weight: bold;
+  height: 50px;
+}
+.apartment-more-info {
+  margin-top: -13px;
+  color: black;
+  padding: 10px;
+  padding-bottom: 0px;
+  font-size: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.heart-icon {
+  margin-top: -25px;
+  margin-bottom: -10px;
+  margin-right: -15px;
+}
+.bedIcon {
+  margin-bottom: -6.5px;
+}
+.bathIcon {
+  margin-bottom: -3px;
+  margin-left: 10px;
+}
+.locationIcon {
+  margin-bottom: -6px;
+}
+.homeIcon {
+  margin-bottom: -5px;
+}
