@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/apt-finder-ui/static/css/main.a9ca5e31.chunk.css",
-    "main.js": "/apt-finder-ui/static/js/main.0016d007.chunk.js",
-    "main.js.map": "/apt-finder-ui/static/js/main.0016d007.chunk.js.map",
+    "main.css": "/apt-finder-ui/static/css/main.eb271a08.chunk.css",
+    "main.js": "/apt-finder-ui/static/js/main.ade55124.chunk.js",
+    "main.js.map": "/apt-finder-ui/static/js/main.ade55124.chunk.js.map",
     "runtime-main.js": "/apt-finder-ui/static/js/runtime-main.5737a299.js",
     "runtime-main.js.map": "/apt-finder-ui/static/js/runtime-main.5737a299.js.map",
     "static/js/2.ef5d4ee1.chunk.js": "/apt-finder-ui/static/js/2.ef5d4ee1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.aca3e37b.chunk.js": "/apt-finder-ui/static/js/3.aca3e37b.chunk.js",
     "static/js/3.aca3e37b.chunk.js.map": "/apt-finder-ui/static/js/3.aca3e37b.chunk.js.map",
     "index.html": "/apt-finder-ui/index.html",
-    "static/css/main.a9ca5e31.chunk.css.map": "/apt-finder-ui/static/css/main.a9ca5e31.chunk.css.map",
+    "static/css/main.eb271a08.chunk.css.map": "/apt-finder-ui/static/css/main.eb271a08.chunk.css.map",
     "static/js/2.ef5d4ee1.chunk.js.LICENSE.txt": "/apt-finder-ui/static/js/2.ef5d4ee1.chunk.js.LICENSE.txt",
     "static/media/favicon.4fe75d5f.ico": "/apt-finder-ui/static/media/favicon.4fe75d5f.ico",
     "static/media/loading-arrow.dd29210f.gif": "/apt-finder-ui/static/media/loading-arrow.dd29210f.gif"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5737a299.js",
     "static/js/2.ef5d4ee1.chunk.js",
-    "static/css/main.a9ca5e31.chunk.css",
-    "static/js/main.0016d007.chunk.js"
+    "static/css/main.eb271a08.chunk.css",
+    "static/js/main.ade55124.chunk.js"
   ]
 }
